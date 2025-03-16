@@ -2,6 +2,8 @@
 
 ![The overview of AoT](image/aot.png)
 
+NOTE: This is not my work. See original forked page for author.
+
 This is a lightweight, standalone implementation of the paper [Atom of Thoughts for Markov LLM Test-Time Scaling](https://arxiv.org/abs/2502.12018). An implementation under the [MetaGPT](https://github.com/geekan/MetaGPT) (ICLR 2024 Oral) framework is also coming soon, which will be suitable for users familiar with that framework and its excellent open-source projects including but not limited to [AFlow](https://arxiv.org/abs/2410.10762) (ICLR 2025 Oral).
 
 ## 📰 News
